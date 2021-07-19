@@ -1,1 +1,1 @@
-# CodngChallenges
+# CodingChallenges
